@@ -1,0 +1,11 @@
+Un pintor tiene que pintar N tablas de madera. Cada tabla i tiene una longitud de L[i] metros.
+El pintor tiene K ayudantes (incluyéndose a sí mismo). Quiere distribuir el trabajo de manera que termine lo más rápido posible.
+Reglas importantes:
+
+Cada ayudante debe pintar tablas consecutivas (no puede saltar tablas)
+Una vez que un ayudante empieza una tabla, debe terminarla (no pueden compartir tablas)
+Cada ayudante pinta a 1 metro por hora
+Todos los ayudantes trabajan al mismo tiempo (en paralelo)
+
+El tiempo total será igual al tiempo que tarda el ayudante más lento (el que pinta más metros).
+Objetivo: Encontrar el mínimo tiempo máximo posible para completar todo el trabajo.
