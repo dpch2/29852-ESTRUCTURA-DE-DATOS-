@@ -1,0 +1,5 @@
+Una biblioteca tiene N libros en un estante, ordenados por su código de identificación. Cada libro tiene un cierto número de páginas.
+Un club de lectura quiere organizar un maratón de lectura donde K miembros participarán. Cada miembro debe leer exactamente un libro diferente.
+El club tiene una regla especial: los libros seleccionados deben tener códigos de identificación en un rango continuo. Es decir, si seleccionan K libros, deben ser libros con índices consecutivos como [i, i+1, i+2, ..., i+K-1].
+El club quiere que el maratón sea equitativo, por lo que quieren minimizar el número de páginas del libro más largo que alguien tenga que leer.
+Sin embargo, hay un límite de tiempo T (en horas). Si el tiempo total necesario para leer todos los K libros supera T horas (considerando Objetivo: Encontrar el mínimo número de páginas del libro más largo entre todas las selecciones válidas de K libros consecutivos que cumplan con el límite de tiempo T.
