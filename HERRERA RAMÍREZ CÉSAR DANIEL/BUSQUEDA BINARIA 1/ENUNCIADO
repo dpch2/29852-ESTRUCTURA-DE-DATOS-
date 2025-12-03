@@ -1,1 +1,8 @@
-
+EJERCICIO N° 2
+Cobertura de pueblos con hospitales (radio mínimo)
+Enunciado:
+A lo largo de una carretera recta se encuentran varios pueblos y varios hospitales.
+Cada hospital puede atender a cualquier pueblo que esté dentro de un radio 𝑅
+(distancia lineal) y se asume que cada hospital tiene capacidad ilimitada.
+Se desea encontrar el menor valor de 𝑅 tal que todos los pueblos tengan al menos un
+hospital a distancia ≤R.
