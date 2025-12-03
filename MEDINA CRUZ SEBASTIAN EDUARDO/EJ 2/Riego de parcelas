@@ -1,0 +1,5 @@
+Riego de parcelas con aspersores
+Enunciado:
+En una línea de parcelas se colocan aspersores en posiciones conocidas. Un aspersor 
+riega todas las parcelas cuyo centro esté a distancia ≤ R. Queremos el mínimo R para que 
+todas las parcelas reciban agua.
