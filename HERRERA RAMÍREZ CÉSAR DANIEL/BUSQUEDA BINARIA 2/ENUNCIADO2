@@ -1,0 +1,10 @@
+EJERCICIO N° 3
+Cobertura de islas con faros (radio mínimo usando búsqueda binaria)
+Enunciado:
+En una costa recta se encuentran varias islas y varios faros.
+Cada faro ilumina un tramo de la costa dentro de un radio 
+𝑅(distancia lineal) y se supone que todos los faros tienen alcance
+ilimitado en cuanto a número de islas (no hay límite de cuántas islas puede cubrir un faro).
+Queremos determinar el menor valor de R tal que todas las islas queden iluminadas
+por al menos un faro, es decir, para cada isla exista un faro cuya distancia a
+la isla sea ≤ 𝑅.
