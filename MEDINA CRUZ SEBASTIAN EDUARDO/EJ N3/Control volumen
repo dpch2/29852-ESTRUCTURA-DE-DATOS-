@@ -1,0 +1,9 @@
+Control de volumen máximo 
+Un profesor tiene N grabaciones de audio con distintos niveles de volumen (no se ordenan).
+Cada grabación tiene un volumen entre 0 y 100 dB.
+El profesor quiere añadir un filtro automático que reduce el volumen de todas las 
+grabaciones que superen un cierto límite R (R es el valor que queremos encontrar).
+El filtro debe cumplir que:
+•	Ninguna grabación final supere 70 dB,
+•	pero el valor R debe ser lo más alto posible (para modificar el audio lo menos posible).
+
