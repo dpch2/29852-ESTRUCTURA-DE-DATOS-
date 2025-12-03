@@ -1,0 +1,8 @@
+EJERCICIO N° 4
+Puntos de recarga para autos eléctricos (radio mínimo con búsqueda binaria)
+Enunciado:
+En una autopista recta hay varios autos eléctricos circulando y varios puntos de recarga rápida instalados a lo largo de la vía.
+Cada punto de recarga puede atender a cualquier auto que se encuentre dentro de un radio R (distancia lineal)
+y se asume que cada punto de recarga puede atender a un número ilimitado de autos.
+Se desea encontrar el menor valor de 𝑅 tal que todos los autos tengan al menos un punto de
+recarga a una distancia ≤ 𝑅.
