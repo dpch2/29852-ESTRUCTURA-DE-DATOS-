@@ -1,0 +1,12 @@
+% Datos de complejidad temporal
+% Tamaño_Problema Operaciones
+10 45
+20 190
+30 435
+40 780
+50 1225
+60 1770
+70 2415
+80 3160
+90 4005
+99 4851
